@@ -1,4 +1,4 @@
-# FoRA
+# LoME
 The pytorch implementation of [LoME]()
 
 The code is based on YOLOv8 of [Ultralytics](https://github.com/ultralytics/ultralytics)
